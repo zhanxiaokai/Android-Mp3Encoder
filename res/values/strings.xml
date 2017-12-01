@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mp3Encoder</string>
+    <string name="hello_world">Lame Encode Mp3!</string>
+    <string name="encode_mp3">编码mp3</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
